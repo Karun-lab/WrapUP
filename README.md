@@ -1,4 +1,4 @@
-# WrapUP
+# Weather Station custom code 
 
 Please note that this code provides a basic framework for connecting to Wi-Fi, reading data from a DHT11 sensor, and uploading it to Firebase. You will need to adapt and expand the code to integrate your specific pressure sensor and wind vane encoder.
 
